@@ -44,7 +44,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=weebDk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
 <h2 align="center"> 𝓜𝔂 𝓢𝓸𝓬𝓲𝓪𝓵𝓼 ~ 😃 </h2>
 <p align="center">
   <a href="mailto:mskannan1612@gmail.com"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Dark.svg" width="50" height="50"/></a>
