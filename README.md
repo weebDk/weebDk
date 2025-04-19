@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="right"> <i>~ I love Tech, Computers and Coding </i>  <br><br>(〃＾▽＾〃) </h1>
+<h3 align="right" font-family= "courier"> <i>~ I love Tech, Computers and Coding </i>  <br><br>(〃＾▽＾〃) </h1>
 
 ---
 
