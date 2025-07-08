@@ -5,22 +5,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/weebDk/weebDk/blob/main/cells.gif" width="75%" />
+  <!--img src="https://github.com/weebDk/weebDk/blob/main/cells.gif" width="75%" />
 </p>
 
 <br>
 
 <h2 align="center">   𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🥷🏻 </h2>
-<img align="right" src="https://cdnb.artstation.com/p/assets/images/images/058/486/961/original/massivearmadapx-one-piece-animation-1.gif?1674259444" width="185" alt="luffy" />
+<!--img align="right" src="https://cdnb.artstation.com/p/assets/images/images/058/486/961/original/massivearmadapx-one-piece-animation-1.gif?1674259444" width="185" alt="luffy" />
 
 <pre>
-- 🔭 I build games, apps and stuffs! 
+- 🔭 I build apps, games and stuffs! 
 
-- 🧭 Exploring: Desgin, Game development and Machine Learning!
+- 🧭 Exploring: Desgining, Automation and Data analysis!
 
-- 📺 ONEPIECE IS REAL! (I fw anime!!)
-
-- ⚡ Fun fact: I workout Everyday!! And take nap at my classes 😴
+- ⚡ Fun fact: I workout Everyday!! 😴
 </pre>  
 
 <br>
