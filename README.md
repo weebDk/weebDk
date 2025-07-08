@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <!--img src="https://github.com/weebDk/weebDk/blob/main/cells.gif" width="75%" />
+  <img src="https://github.com/weebDk/weebDk/blob/main/cells.gif" width="75%" />
 </p>
 
 <br>
