@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hey+🤖!+This+is+kannan+aka+weebDK;Welcome+to+my+profile+^_~" alt="Typing Animation" />
 </h1>
 
-<p align="center">
+<!--p align="center">
   <img src="https://github.com/weebDk/weebDk/blob/main/cells.gif" width="75%" />
-</p>
+</p-->
 
 <br>
 
 <h2 align="center">   𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🥷🏻 </h2>
-<!--img align="right" src="https://cdnb.artstation.com/p/assets/images/images/058/486/961/original/massivearmadapx-one-piece-animation-1.gif?1674259444" width="185" alt="luffy" />
+<!--mg align="right" src="https://cdnb.artstation.com/p/assets/images/images/058/486/961/original/massivearmadapx-one-piece-animation-1.gif?1674259444" width="185" alt="luffy" /-->
 
 <pre>
 - 🔭 I build apps, games and stuffs! 
